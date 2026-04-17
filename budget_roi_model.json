@@ -1,0 +1,33 @@
+{
+  "campaign_name": "MARS OS Beta User Acquisition Social Media Campaign",
+  "campaign_duration_months": 3,
+  "budget_assumptions": {
+    "note": "Phase 1 focuses on organic growth, so costs are notional, representing internal time/effort.",
+    "internal_hourly_rate": 50,
+    "content_creation_hours_per_week": 12,
+    "platform_management_hours_per_week": 5,
+    "tools_software_cost_per_month": 0
+  },
+  "projected_budget": {
+    "content_creation_cost_total": 7200,
+    "platform_management_cost_total": 3000,
+    "total_notional_campaign_cost": 10200
+  },
+  "acquisition_projections": {
+    "target_beta_users": 100,
+    "projected_notional_cac": 102,
+    "target_cac_threshold": 50,
+    "cac_exceeds_target": true
+  },
+  "revenue_projections": {
+    "beta_to_paid_conversion_rate": 0.20,
+    "projected_converted_paid_users": 20,
+    "assumed_monthly_subscription_price": 99,
+    "assumed_customer_lifetime_months": 6,
+    "projected_total_revenue_from_converted_beta_users": 11880
+  },
+  "roi_analysis": {
+    "projected_roi_percentage": 16.47,
+    "note": "ROI is calculated based on notional costs and projected revenue from converted beta users over their assumed lifetime."
+  }
+}
