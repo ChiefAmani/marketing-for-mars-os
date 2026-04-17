@@ -171,3 +171,8 @@ Currently, there are few direct competitors offering a fully integrated "C-suite
 *   **Modern & Tech-Forward:** Align with the innovative nature of the product and its underlying technology. Use contemporary language that resonates with a tech-savvy audience.
 *   **Optimistic & Enthusiastic:** Convey excitement about the potential of autonomous AI to revolutionize entrepreneurship.
 *   **Problem-Solving Focused:** Clearly articulate how MARS OS addresses the core pain points of solo founders.
+
+## 10. Financial Constraints & KPIs
+*   **Target CAC:** < $50 per beta signup.
+*   **Marketing Budget:** $0 (Organic growth focus for Phase 1).
+*   **Expected ROI:** Measured by beta user retention and feedback quality.
