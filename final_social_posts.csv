@@ -1,0 +1,97 @@
+Platform,Text,Hashtags,Image,Date,Time,Type,Status
+twitter,"You have 100 ideas but only 24 hours. What if you could spin up an entire C-suite (CEO, CTO, CMO) to execute them while you sleep? Meet MARS OS. The autonomous AI workforce for solo founders.
+
+Beta opening soon. Drop a comment below for early access.",#IndieHacker #SoloFounder #AutonomousAI,mars_os_hero.png,2024-11-01,09:00,text,scheduled
+linkedin,"The future of founding is autonomous. We are building MARS OS to give every solo founder the power of a full C-suite. Imagine having an AI CTO writing your code, an AI CMO running your campaigns, and an AI CFO managing your runway. You just approve the strategy. Welcome to the next era of entrepreneurship.",#FutureOfWork #AI #Startup #Founder,mars_os_vision.png,2024-11-02,10:00,text,scheduled
+instagram,"Meet your new CTO. MARS OS doesn't just write snippets; it architects entire codebases using LangGraph and Gemini. You set the vision, your AI CTO builds it.",#TechStartup #AICsuite #MARSOS #BuildInPublic,cto_agent_carousel.png,2024-11-03,12:00,carousel,scheduled
+email,"Subject: Welcome to the Autonomous Era
+
+Hey there,
+
+You're on the list. You know the struggle: too many ideas, not enough time. MARS OS is changing that. Over the next few weeks, we'll show you how you can spin up an AI C-suite to execute your vision end-to-end.
+
+Get ready to scale yourself.
+
+- The MARS OS Team",,,2024-11-04,08:00,text,scheduled
+twitter,"Poll: What's the biggest bottleneck for your side project right now?
+
+1. Writing Code
+2. Marketing & Sales
+3. Financial Planning
+4. Strategic Direction
+
+(Hint: MARS OS handles all 4).",#BuildInPublic #IndieHacker,,2024-11-05,11:00,text,scheduled
+linkedin,"Why we chose LangGraph + Gemini + React/Three.js for MARS OS. A deep dive into building an autonomous workforce platform that doesn't just chat, but executes complex, multi-step workflows. [Link to Article]",#LangGraph #GeminiAI #ReactJS #TechInnovation,tech_stack_diagram.png,2024-11-06,09:30,text,scheduled
+twitter,"How to launch a SaaS in 48 hours with MARS OS:
+
+1/ You brief the AI CEO on your vision.
+2/ The AI CTO generates the React frontend and backend architecture.
+3/ The AI CMO writes the landing page copy and social campaign.
+4/ You click 'Approve'.
+
+That's it.",#SaaS #SoloFounder #AgenticAI,,2024-11-07,10:00,text,scheduled
+instagram,"Stop context switching. Start directing. MARS OS gives you a 3D command center (built with Three.js) to oversee your AI workforce. Approve, decline, or pivot with a single click.",#Productivity #FounderLife #MARSOS,threejs_dashboard.png,2024-11-08,14:00,image,scheduled
+email,"Subject: Meet your new AI CTO
+
+Hey,
+
+Coding takes time. Debugging takes longer. What if you could delegate the entire technical architecture to an AI that never sleeps?
+
+Our CTO agent uses LangGraph to break down your product spec into executable tasks, writing and testing code autonomously. You just review the PRs.
+
+Beta spots are filling up. Stay tuned.",,,2024-11-09,08:00,text,scheduled
+twitter,Most AI tools are just glorified autocomplete. MARS OS is an execution engine. We don't just give you advice; we do the work. #AutonomousAI #Startup,#AutonomousAI #Startup,,2024-11-10,13:00,text,scheduled
+linkedin,"Financial modeling is the bane of many creative founders. The MARS OS CFO agent analyzes market data, projects runway, and builds dynamic financial models so you can focus on the product. True leverage is delegating your weaknesses.",#Finance #StartupFunding #SoloFounder,cfo_dashboard.png,2024-11-11,08:45,text,scheduled
+instagram,POV: You just approved the marketing campaign your AI CMO built while you were at the gym.,#IndieHacker #MarketingStrategy #AI,gym_approval_reel.mp4,2024-11-12,17:00,story,scheduled
+twitter,"The solo founder's dilemma: You can't be an expert in everything. 
+
+Solution: Don't be. Hire an AI C-suite. MARS OS beta invites dropping this Friday.",#TechStartup #Founder,,2024-11-13,09:00,text,scheduled
+email,"Subject: Your AI CMO is ready to launch
+
+Hey,
+
+Building a great product is only half the battle. Getting it in front of users is where most indie hackers struggle.
+
+The MARS OS CMO agent conducts market research, identifies your target audience, and generates full cross-platform campaigns (just like this one!).
+
+Ready to scale your reach?",,,2024-11-14,08:00,text,scheduled
+twitter,"MARS OS Beta is officially OPEN for the first 100 users!
+
+Spin up your AI C-suite today and turn your backlog into launched products. 
+
+Link in bio to claim your spot.",#Launch #Beta #IndieHacker #AI,beta_launch.png,2024-11-15,10:00,image,scheduled
+linkedin,"We are thrilled to announce the limited beta launch of MARS OS. We built this for the visionaries, the builders, and the indie hackers who refuse to be bottlenecked by execution. Join us in redefining the future of work.",#CompanyUpdate #MARSOS #FutureOfWork,team_announcement.png,2024-11-16,11:00,text,scheduled
+instagram,Beta is live! Link in bio to get your AI C-suite.,#StartupLife #BetaLaunch,beta_live_story.png,2024-11-17,09:00,story,scheduled
+twitter,"Let's talk about the CSO (Chief Strategy Officer) agent in MARS OS.
+
+While the CTO builds and the CMO markets, the CSO looks at the big picture. It analyzes competitor movements, identifies market gaps, and suggests pivot strategies. It's your AI sounding board.",#Strategy #AIagents,,2024-11-18,13:00,text,scheduled
+email,"Subject: The numbers don't lie (Meet your AI CFO)
+
+Hey,
+
+Running out of cash is the #1 reason startups fail. Your MARS OS CFO agent ensures that doesn't happen. It tracks burn rate, models pricing tiers, and generates investor-ready financial reports.
+
+Secure your beta access before spots run out.",,,2024-11-19,08:00,text,scheduled
+linkedin,A solo founder with an AI C-suite can out-execute a traditional 10-person startup. The leverage is unprecedented. We are seeing early MARS OS beta users launch products in days that used to take months.,#Productivity #Innovation #SoloFounder,,2024-11-20,10:30,text,scheduled
+instagram,Swipe to see how the MARS OS LangGraph architecture breaks down a complex project into autonomous agent tasks.,#LangGraph #TechStack #AIArchitecture,architecture_carousel.png,2024-11-21,12:00,carousel,scheduled
+twitter,"What would you build if execution was free and instant? 
+
+Drop your wildest startup ideas below.",#Brainstorm #IndieHacker,,2024-11-22,15:00,text,scheduled
+twitter,"The CRO (Chief Revenue Officer) agent is your relentless sales machine. It identifies leads, drafts personalized outreach, and optimizes your pricing funnel. Revenue generation, automated.",#Sales #Revenue #AI,cro_dashboard.png,2024-11-23,09:00,image,scheduled
+email,"Subject: Last chance for early Beta access
+
+Hey,
+
+We're closing the first cohort of the MARS OS beta in 48 hours. If you want to be among the first to command an autonomous AI workforce, now is the time.
+
+Click here to claim your C-suite.
+
+- The MARS OS Team",,,2024-11-24,08:00,text,scheduled
+linkedin,Delegation is the hardest skill for founders to learn. MARS OS makes it easy by providing a team of AI experts that never drop the ball. You remain the visionary; the AI handles the operations.,#Leadership #Management #AIWorkforce,,2024-11-25,09:00,text,scheduled
+instagram,Only 48 hours left to join the MARS OS Beta! Don't miss out on the future of founding.,#FOMO #StartupLaunch,countdown_timer.png,2024-11-26,10:00,story,scheduled
+twitter,We built the MARS OS interface using React and Three.js because managing an AI workforce shouldn't feel like reading a spreadsheet. It should feel like commanding a starship.,#ThreeJS #ReactJS #UXDesign,ui_sneak_peek.mp4,2024-11-27,11:00,text,scheduled
+twitter,24 hours left. The era of the solo founder doing everything is over.,#MARSOS #Beta,,2024-11-28,09:00,text,scheduled
+linkedin,"As we close our first beta cohort, I want to thank the incredible indie hackers who have joined us. The feedback has been phenomenal. We are just scratching the surface of what autonomous AI can do for entrepreneurship.",#Milestone #FounderJourney #AI,founder_letter.png,2024-11-29,10:00,text,scheduled
+twitter,"Beta Cohort 1 is officially CLOSED!
+
+Thank you to everyone who joined. We are heads down building the future. If you missed out, join the waitlist for Cohort 2. The AI revolution is just beginning.",#BuildInPublic #AIWorkforce,beta_closed.png,2024-11-30,12:00,image,scheduled
